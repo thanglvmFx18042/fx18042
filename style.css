@@ -1,0 +1,26 @@
+.bg-img1 {
+    height: 100vh;
+    background-color: #000;
+    background-size: cover;
+    background-image: url(butterfly.jpg) ;
+}
+
+
+.bg-img2 {
+    height: 100vh;
+    background-color: #000;
+    background-size: cover;
+    background-image: url(boconganh.jpg) ;
+}
+
+
+.bg-img3 {
+    height: 100vh;
+    background-color: #000;
+    background-size: cover;
+    background-image: url(flower.jpg) ;
+}
+
+.carousel-caption {
+    color: rgba(45, 16, 206, 0.822);
+}
